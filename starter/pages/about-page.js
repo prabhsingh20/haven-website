@@ -3,7 +3,7 @@ export default function Page() {
     <div className="grid grid-cols-5 gap-x-24 gap-y-32 text-lg items-center">
       <div className="col-span-3">
         <h1 className="text-4xl mb-10 text-accent-400 font-medium">
-          Welcome to The Wild Oasis
+          Welcome to The Haven
         </h1>
 
         <div className="space-y-8">
@@ -36,7 +36,7 @@ export default function Page() {
       </div>
 
       <div className="col-span-2">
-        <img src="/about-2.jpg" alt="Family that manages The Wild Oasis" />
+        <img src="/about-2.jpg" alt="Family that manages The Haven" />
       </div>
 
       <div className="col-span-3">
@@ -46,18 +46,17 @@ export default function Page() {
 
         <div className="space-y-8">
           <p>
-            Since 1962, The Wild Oasis has been a cherished family-run retreat.
+            Since 1962, The Haven has been a cherished family-run retreat.
             Started by our grandparents, this haven has been nurtured with love
             and care, passing down through our family as a testament to our
             dedication to creating a warm, welcoming environment.
           </p>
           <p>
-            Over the years, we've maintained the essence of The Wild Oasis,
-            blending the timeless beauty of the mountains with the personal
-            touch only a family business can offer. Here, you're not just a
-            guest; you're part of our extended family. So join us at The Wild
-            Oasis soon, where tradition meets tranquility, and every visit is
-            like coming home.
+            Over the years, we've maintained the essence of The Haven, blending
+            the timeless beauty of the mountains with the personal touch only a
+            family business can offer. Here, you're not just a guest; you're
+            part of our extended family. So join us at The Haven soon, where
+            tradition meets tranquility, and every visit is like coming home.
           </p>
 
           <div>
